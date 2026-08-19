@@ -1,3 +1,5 @@
+'use client';
+
 import React from 'react';
 import { StatsHeader } from './stats-header';
 import { LeadsToolbar } from './leads-toolbar';
